@@ -11,7 +11,9 @@
 ## Установка
 ```bash
 pip install -r requirements.txt
+```
 
 ## Датасет
 CT_non_format — https://drive.google.com/drive/folders/1r11n_45PQvrHqbGHlfpvQ6e9ySL3mpmC?usp=sharing
+
 Label_map_FIXED — https://drive.google.com/drive/folders/1VjPFBKW4_yBc-hxCu77LdHIYp_4fdwqx?usp=sharing
