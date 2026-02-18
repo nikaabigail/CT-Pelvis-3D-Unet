@@ -1,0 +1,30 @@
+# python
+__pycache__/
+*.pyc
+
+# outputs
+infer_out/
+build_out/
+runs/
+logs/
+
+# datasets / big medical files
+*.nrrd
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.npz
+
+# checkpoints / weights
+checkpoints/
+*.pt
+*.pth
+
+# optuna
+*.db
+optuna_*.db
+
+# venv
+.venv/
+venv/

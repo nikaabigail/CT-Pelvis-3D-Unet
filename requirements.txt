@@ -1,0 +1,7 @@
+numpy
+SimpleITK
+torch
+monai
+matplotlib
+tqdm
+PyYAML
