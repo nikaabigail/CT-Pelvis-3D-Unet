@@ -1,14 +1,35 @@
-# python
+# Python cache / bytecode
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# outputs
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Outputs / logs
 infer_out/
 build_out/
 runs/
 logs/
+*.log
 
-# datasets / big medical files
+# Datasets / big medical files
 *.nrrd
 *.nii
 *.nii.gz
@@ -16,15 +37,11 @@ logs/
 *.mhd
 *.npz
 
-# checkpoints / weights
+# Checkpoints / weights
 checkpoints/
 *.pt
 *.pth
 
-# optuna
+# Optuna
 *.db
 optuna_*.db
-
-# venv
-.venv/
-venv/
