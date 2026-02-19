@@ -33,12 +33,12 @@
 2. **CTPelvic1K dataset6** (дополнительный домен)
    - CT: `DATASET6_CT_DIR`
    - Label: `DATASET6_LAB_DIR`
-   - Ссылка: **TODO: добавить ссылку**
+   - Ссылка: https://drive.google.com/drive/folders/1P3DTmpTf8al8nntgP3D56HilxqCuYTUd?usp=sharing
 
 3. **dataset8** (дополнительный домен)
    - CT: `DATASET8_CT_DIR`
    - Label: `DATASET8_LAB_DIR`
-   - Ссылка: https://drive.google.com/drive/folders/1JFM7EKJ23S7th_6oASB607sLiduZAmp0?usp=sharing
+   - Ссылка: https://drive.google.com/drive/folders/1JFM7EKJ23S7th_6oASB607sLiduZAmp0?usp=drive_link
 
 > Примечание: в `femur`-режиме домен dataset6 обычно не используется как источник positive femur-разметки (это отражено в комментариях/логике конфигурации).
 
