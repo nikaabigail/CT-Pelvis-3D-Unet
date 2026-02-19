@@ -33,7 +33,7 @@
 2. **CTPelvic1K dataset6** (дополнительный домен)
    - CT: `DATASET6_CT_DIR`
    - Label: `DATASET6_LAB_DIR`
-   - Ссылка: https://drive.google.com/drive/folders/1P3DTmpTf8al8nntgP3D56HilxqCuYTUd?usp=sharing
+   - Ссылка: https://disk.yandex.ru/d/Lj4UZOzsdxMV_A
 
 3. **dataset8** (дополнительный домен)
    - CT: `DATASET8_CT_DIR`
